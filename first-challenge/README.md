@@ -16,6 +16,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resutados (Não utilizei uma conta real, apenas coloquei credenciais aleatórias)
 
 ![Alt text](./challenge.png "Resultados")
